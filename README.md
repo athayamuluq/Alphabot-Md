@@ -62,8 +62,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - Contoh `worker: node . --db 'mongodb+srv://mongodb-bot:abcdefghij@zeeoneofc.aWpl9.mongodb.net/?retryWrites=true&w=majority'`
 
 ## For Termux
-- Download script MediaFire [Here](https://telegra.ph/Alphabot-Md-V14-08-02)
-- Cara install tonton Di [YouTube](https://youtu.be/ep_PM1PpEVg)
+```ts
+apt update && apt upgrade
+pkg install bash
+git clone https://github.com/zeeone-ofc/Alphabot-Md.git
+cd Alphabot-Md
+bash install.sh
+```
 
 ## Edit file
 `./settings.js`
@@ -74,21 +79,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.botname = "Torubot-Md"
+global.ownername= "athayamuluq"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
+global.instagram = "https://instagram.com/athayamuluq"
 global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
+global.email = "athayamuluq4@gmail.com"
 global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.ownernomer = "62895366601524"
+global.ownernomerr = "+62895366601524"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["62895366601524","6281257760202"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Torubot-Md' //sticker wm
+global.author = 'Di Buat Oleh athayamuluq' //sticker wm
 global.sessionName = 'session'
 ```
 
