@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Torubot-Md",
   "version": "1.1.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "Torubot Md, Only update in Instagram athayamuluq",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "ZeeoneOfc",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^7.0.0",
